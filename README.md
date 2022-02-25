@@ -1,5 +1,2 @@
-<<<<<<< HEAD
 # terraformdemo
-=======
-# terraformdemo
->>>>>>> master
+
